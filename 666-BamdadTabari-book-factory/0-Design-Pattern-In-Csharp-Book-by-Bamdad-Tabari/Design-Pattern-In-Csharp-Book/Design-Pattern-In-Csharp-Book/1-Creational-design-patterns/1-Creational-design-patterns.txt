@@ -1,0 +1,12 @@
+*    Creational design patterns in C#?
+
+Creational design patterns in C# are focused on object creation. 
+They provide ways to instantiate a single object or a group of related objects, abstracting away the object creation process that may spread across multiple classes. The main creational design patterns in C# include:
+
+1. Singleton: Ensures a class has only one instance and provides a global point of access to it.
+2. Abstract Factory: Provides an interface for creating families of related or dependent objects without specifying their concrete classes.
+3. Builder: Separates the construction of a complex object from its representation, allowing the same construction process to create different representations.
+4. Factory Method: Defines an interface for creating an object, but allows subclasses to alter the type of objects that will be created.
+5. Prototype: Creates a new object by copying an existing object.
+   
+These patterns offer flexible and reusable solutions for object creation in C# software design.

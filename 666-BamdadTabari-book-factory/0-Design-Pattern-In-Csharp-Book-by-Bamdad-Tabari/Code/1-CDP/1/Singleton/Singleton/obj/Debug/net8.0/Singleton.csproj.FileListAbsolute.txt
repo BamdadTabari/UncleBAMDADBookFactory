@@ -1,0 +1,15 @@
+D:\1-work-space\5-books-and-articles\0-C#\Design-Pattern-In-Csharp-Book\Code\1-CDP\1\Singleton\Singleton\bin\Debug\net8.0\Singleton.exe
+D:\1-work-space\5-books-and-articles\0-C#\Design-Pattern-In-Csharp-Book\Code\1-CDP\1\Singleton\Singleton\bin\Debug\net8.0\Singleton.deps.json
+D:\1-work-space\5-books-and-articles\0-C#\Design-Pattern-In-Csharp-Book\Code\1-CDP\1\Singleton\Singleton\bin\Debug\net8.0\Singleton.runtimeconfig.json
+D:\1-work-space\5-books-and-articles\0-C#\Design-Pattern-In-Csharp-Book\Code\1-CDP\1\Singleton\Singleton\bin\Debug\net8.0\Singleton.dll
+D:\1-work-space\5-books-and-articles\0-C#\Design-Pattern-In-Csharp-Book\Code\1-CDP\1\Singleton\Singleton\bin\Debug\net8.0\Singleton.pdb
+D:\1-work-space\5-books-and-articles\0-C#\Design-Pattern-In-Csharp-Book\Code\1-CDP\1\Singleton\Singleton\obj\Debug\net8.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-work-space\5-books-and-articles\0-C#\Design-Pattern-In-Csharp-Book\Code\1-CDP\1\Singleton\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfoInputs.cache
+D:\1-work-space\5-books-and-articles\0-C#\Design-Pattern-In-Csharp-Book\Code\1-CDP\1\Singleton\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfo.cs
+D:\1-work-space\5-books-and-articles\0-C#\Design-Pattern-In-Csharp-Book\Code\1-CDP\1\Singleton\Singleton\obj\Debug\net8.0\Singleton.csproj.CoreCompileInputs.cache
+D:\1-work-space\5-books-and-articles\0-C#\Design-Pattern-In-Csharp-Book\Code\1-CDP\1\Singleton\Singleton\obj\Debug\net8.0\Singleton.sourcelink.json
+D:\1-work-space\5-books-and-articles\0-C#\Design-Pattern-In-Csharp-Book\Code\1-CDP\1\Singleton\Singleton\obj\Debug\net8.0\Singleton.dll
+D:\1-work-space\5-books-and-articles\0-C#\Design-Pattern-In-Csharp-Book\Code\1-CDP\1\Singleton\Singleton\obj\Debug\net8.0\refint\Singleton.dll
+D:\1-work-space\5-books-and-articles\0-C#\Design-Pattern-In-Csharp-Book\Code\1-CDP\1\Singleton\Singleton\obj\Debug\net8.0\Singleton.pdb
+D:\1-work-space\5-books-and-articles\0-C#\Design-Pattern-In-Csharp-Book\Code\1-CDP\1\Singleton\Singleton\obj\Debug\net8.0\Singleton.genruntimeconfig.cache
+D:\1-work-space\5-books-and-articles\0-C#\Design-Pattern-In-Csharp-Book\Code\1-CDP\1\Singleton\Singleton\obj\Debug\net8.0\ref\Singleton.dll

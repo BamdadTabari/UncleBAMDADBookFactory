@@ -1,0 +1,37 @@
+1- what is the difference between data and information?
+
+2- can data be considered information?
+
+3- how is data transformed into information?
+
+4- what are some examples of data and information in everyday life?
+
+5- what are some common data analysis techniques?
+
+6- how is data cleaned and prepared for analysis?
+
+7- what are some challenges in collecting and analyzing data?
+
+8 - what is the difference between structured and unstructured data?
+
+9 - what are some examples of spatiotemporal data?
+
+10 - how are data types used in programming languages?
+
+11 - what is the difference between centralized and distributed databases?
+
+12 - what are the advantages of using nosql databases? 
+
+13- what are some examples of cloud databases?
+
+14- what are some common features of business databases?
+
+15- how do businesses ensure data security in their databases?
+
+16- what are some challenges businesses face when managing databases?
+
+17- what are the key features of mysql and postgresql? 
+
+18- what are the advantages of using nosql databases?
+
+19- what are some examples of cloud databases?

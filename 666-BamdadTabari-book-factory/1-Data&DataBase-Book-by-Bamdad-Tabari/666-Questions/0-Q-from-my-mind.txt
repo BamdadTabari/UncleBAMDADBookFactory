@@ -1,0 +1,17 @@
+1. what is data warehousing?
+
+2. big data?
+
+3. NoSQL vs SQL?
+
+4. self-contained architecture?
+
+5. self-contained architecture in SQLite?
+
+6. Data Analyzing?? ***
+
+7. data house? warehouse? data lake?? and like them
+
+8. Data Scientist?
+
+9. Data Scientist road map? 

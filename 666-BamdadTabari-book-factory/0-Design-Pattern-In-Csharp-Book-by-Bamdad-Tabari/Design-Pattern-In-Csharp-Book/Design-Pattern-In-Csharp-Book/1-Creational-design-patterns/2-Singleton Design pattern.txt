@@ -1,0 +1,54 @@
+*   Describe Singleton Design pattern with Details And Code Sample :
+The Singleton design pattern in C# ensures that a class has only one instance and provides a global point of access to that instance. It is used when only one instance of a class is needed throughout the program. The following is an example of the Singleton pattern in C#:
+
+```csharp
+public class Singleton
+{
+    private static Singleton instance;
+
+    private Singleton() { }
+
+    public static Singleton Instance
+    {
+        get
+        {
+            if (instance == null)
+            {
+                instance = new Singleton();
+            }
+            return instance;
+        }
+    }
+
+    public void SomeMethod()
+    {
+        Console.WriteLine("SomeMethod of the 		  	Singleton instance");
+    }
+}
+```
+
+In this example, the `Singleton` class ensures that only one instance is created and provides a global access point to that instance through the `Instance` property. The constructor is made private to prevent instantiation of the class from outside. The `Instance` property is used to access the single instance of the class.
+
+This pattern is useful when exactly one object is needed to coordinate actions across the system, such as a shared resource. However, it should be used with caution as it can introduce global state and make code less testable.
+-----------------------------------------------
+* how does the singleton design pattern ensure that a class has only one instance?
+
+The Singleton design pattern ensures that a class has only one instance by providing a global point of access to that instance. 
+This is achieved by the following key features of the pattern:
+1. Private Constructor: The class's constructor is made private, preventing external code from creating instances of the class.
+2. Static Instance: The class contains a static member that holds the single instance of the class.
+3. Global Access Point: The pattern provides a public static method or property that allows other classes to access the single instance.
+By combining these features, the Singleton pattern restricts the instantiation of a class to one object, and it provides a way to access that instance globally, ensuring that only one instance of the class exists throughout the application.
+
+-----------------------------------------------------
+*  what we are not just building a static class?
+
+Creating a static class in C# is different from implementing the Singleton design pattern. A static class cannot be instantiated and can only contain static members, including methods, properties, and fields. However, a static class does not allow for inheritance or flexibility to change the behavior, which is a limitation when compared to the Singleton pattern. On the other hand, the Singleton pattern allows for a single instance of a class with global access and provides more flexibility, such as lazy initialization and the ability to be extended by subclassing if needed.
+
+While a static class is suitable for containing general utility methods or constants, the Singleton pattern is used when exactly one instance of a class is needed and provides a way to access that instance globally. Therefore, the Singleton pattern is more appropriate for scenarios where a single, extensible instance of a class is required, as opposed to simply grouping related members in a class with restricted behavior, as in the case of a static class.
+-----------------------------------------------------------
+* what does it mean: "The Singleton design pattern in C# ensures that a class has only one instance ".
+Does it mean that in the whole application, we can make one and only one instance from that class?
+
+Yes, the statement "The Singleton design pattern in C# ensures that a class has only one instance" means that in the whole application, only one instance of the class can be created. The purpose of the Singleton pattern is to ensure that a class has only one instance and provide a global point of access to it throughout the life of the application. This is useful in scenarios where multiple instances of a class are undesirable or where a single point of access is needed, such as in logging systems, database connection managers, caches, and thread pools.
+----------------------------------------------------------------------
