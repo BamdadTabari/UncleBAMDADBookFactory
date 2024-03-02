@@ -1,0 +1,64 @@
+Django ORM (Object-Relational Mapping):
+
+Django ORM, or Object-Relational Mapping, is a powerful feature of Django 
+that allows developers to interact with their database as if it were a set of Python objects. 
+It provides a Pythonic way to create SQL queries and manipulate the database, 
+simplifying the process of working with databases in Python.
+allowing developers to focus on building their applications 
+without having to worry about the underlying database system.
+
+Here are some key points about Django ORM:
+
+1. Pythonic Interface: 
+Django ORM provides a Pythonic interface to interact with the database, 
+making it easier for Python developers to work with databases 
+without having to write SQL queries directly.
+
+2. Database Abstraction: 
+Django ORM abstracts the database layer, allowing developers to work with databases 
+without worrying about the specific database system being used.
+
+3. QuerySet: 
+Django ORM returns results as a QuerySet, 
+which is a set of objects that match the query. 
+This allows for easy manipulation and filtering of the results.
+
+4. Model-Based: 
+Django ORM is model-based, 
+meaning that developers define their models in Python, 
+and Django ORM generates the necessary SQL queries to interact with the database.
+
+5. ORM Queries: 
+Django ORM allows developers to perform various operations on the database, 
+such as inserting, updating, and deleting data, using a simple and intuitive syntax.
+
+6. ORM Queries Examples: Here are some examples of how to use Django ORM to perform common operations:
+
+   - Inserting data:
+     ```python
+     a = Album(title = "Divide", artist = "Ed Sheeran", genre = "Pop")
+     a.save()
+     ```
+
+   - Updating data:
+     ```python
+     a = Album.objects.get(pk = 3)
+     a.genre = "Pop"
+     a.save()
+     ```
+
+   - Deleting data:
+     ```python
+     a = Album.objects.get(pk = 2)
+     a.delete()
+     ```
+
+   - Retrieving data:
+     ```python
+     Album.objects.all()
+     ```
+
+   - Filtering data:
+     ```python
+     Album.objects.filter(genre = "Pop")
+     ```
