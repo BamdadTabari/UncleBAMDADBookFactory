@@ -1,1 +1,11 @@
 what is django?
+
+Django is a high-level Python web framework designed for "rapid development" and clean, 
+"pragmatic design". 
+
+It simplifies web development by handling many common tasks, 
+allowing developers to focus on building their applications without starting from scratch. 
+This open-source framework is known for its speed and efficiency, 
+making it a popular choice for web development projects.
+
+ok, now => what is rapid development?
