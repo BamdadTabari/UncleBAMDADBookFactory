@@ -13,5 +13,57 @@ marked questions:
 1. what is rapid development?
 2. clean pragmatic design?
 
-We will answer these later.
+I will answer these later.
 now let's write about basics.
+
+what are the advantages of using django for web development?
+
+As I said Django is a high-level Python web framework designed for rapid development 
+and clean, pragmatic design and ....
+Here are some advantages of using Django for web development:
+
+1. Automatically generated admin panel: 
+Django provides an administrative interface out of the box, 
+which is both professional and versatile, 
+allowing developers to manage their data with basic CRUD operations.
+
+2. Security: 
+Django was designed with security in mind and includes features like 
+protection from common security-related errors such as clickjacking, SQL injections, 
+cross-site scripting, and forgery.
+
+3. Scalability: 
+Django is suitable for both small and large projects, 
+and it scales well with traffic, making it a popular choice for high-traffic websites.
+
+4. Versatility: 
+Django can be used for various types of projects, including content management, 
+scientific computing platforms, and large organizations.
+
+5. Endless resources: 
+Python, the language that Django is built on it, has a large library that can be used 
+for building large-scale applications, and Django itself offers a comprehensive set of tools like:
+data validation, caching, logging, pagination, authentication, authorization and ...
+
+6. Easy to work with: 
+Django follows the DRY (Don't Repeat Yourself) principle, 
+which eliminates the need for boilerplate code, saving web developers huge amounts of time 
+and allowing them to focus on what's different about what they're building.
+
+7. Active community: 
+Django has a large and active community that constantly updates fresh plug-ins and code snippets, 
+making it easier for developers to work with.
+
+8. Documentation: 
+Django's documentation is well-documented, making it easier for developers to learn and use the framework.
+
+9. Speed and efficiency: 
+Django is designed to be fast and efficient, allowing developers to build applications quickly 
+without the need to focus on many manual steps.
+
+10. Beginner-friendly: 
+Django is beginner-friendly, 
+with a clear mechanism of working with the project, 
+a convenient ORM (Object-Relational Mapping) system, 
+and a built-in functional template engine, making it a reliable tool for achieving all goals 
+and realizing important ideas.
