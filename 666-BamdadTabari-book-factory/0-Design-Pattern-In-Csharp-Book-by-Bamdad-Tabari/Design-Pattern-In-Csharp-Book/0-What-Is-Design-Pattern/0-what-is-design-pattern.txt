@@ -1,0 +1,35 @@
+
+what-is-design-pattern?
+
+Design Pattern:
+design patterns are like pre-made blueprints that developers can customize 
+to solve recurring design problems in their code efficiently. 
+They provide a common language for communication among team members 
+and offer structured solutions to common software design challenges.
+A design pattern is a general repeatable solution to a commonly occurring problem 
+in software design. 
+It provides a structured approach to solving specific issues that developers 
+face during the development process. 
+
+Here are key points about design patterns based on my search results:
+
+1. Best Practices: Design patterns represent the best practices used by experienced object-oriented software developers to solve general problems encountered during software development[1][3].
+
+2. Gang of Four (GOF): The term "Gang of Four" refers to the authors Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, who published the book "Design Patterns - Elements of Reusable Object-Oriented Software" in 1994. They are known for their significant contributions to design patterns and object-oriented design principles[1].
+
+3. Types of Design Patterns: Design patterns can be classified into three main categories: Creational, Structural, and Behavioral patterns. Additionally, there are J2EE design patterns specifically focused on the presentation tier[1][2].
+
+   - Creational Patterns: These patterns focus on object creation and provide flexibility in deciding which objects need to be created for a given use case.
+   
+   - Structural Patterns: Concerned with class and object composition, these patterns use inheritance to compose interfaces and define ways to compose objects for new functionalities.
+   
+   - Behavioral Patterns: Specifically address communication between objects and how they interact with each other during runtime.
+
+4. Benefits of Design Patterns:
+   - Design patterns speed up the development process by providing tested and proven development paradigms.
+   - They prevent subtle issues that can cause major problems and improve code readability.
+   - Design patterns allow developers to communicate using well-known names for software interactions[2][4].
+
+5. Flexibility and Reusability: Design patterns enhance code flexibility by promoting loose coupling between components and providing proven solutions to common problems. They also contribute to code maintainability during team collaboration by establishing a common vocabulary and structure[5].
+
+
