@@ -1,0 +1,41 @@
+*Structural Design Patterns:
+
+These patterns help developers to create more flexible and 
+efficient software systems by providing a structured approach to managing 
+the relationships between classes and objects.
+Structural Design Patterns in C# are design patterns that ease the design 
+by identifying a simple way to realize the relationship among entities. 
+They are used to manage the structure of classes and interfaces 
+as well as manage the relationship between the classes. 
+There are seven main structural design patterns in C#:
+
+1. Adapter: 
+Adjusts communication between two alien types and makes them understand each other.
+
+2. Bridge: 
+Splits a large class or a set of closely related classes into 
+wo separate hierarchies—abstraction and implementation—which can be developed 
+independently of each other.
+
+3. Composite: 
+Composes objects into tree structures and then works with these structures 
+as if they were individual objects.
+
+4. Decorator: 
+Attaches new behaviors to objects by placing these objects 
+inside special wrapper objects that contain the behaviors.
+
+5. Facade: 
+Provides a simplified interface to a library, a framework, 
+or any other complex set of classes.
+
+6. Flyweight: 
+Fits more objects into the available amount of RAM by sharing 
+common parts of state between multiple objects instead of 
+keeping all of the data in each object.
+
+7. Proxy: 
+Provides a substitute or placeholder for another object. 
+A proxy controls access to the original object, 
+allowing you to perform something either before or after the request 
+gets through to the original object.

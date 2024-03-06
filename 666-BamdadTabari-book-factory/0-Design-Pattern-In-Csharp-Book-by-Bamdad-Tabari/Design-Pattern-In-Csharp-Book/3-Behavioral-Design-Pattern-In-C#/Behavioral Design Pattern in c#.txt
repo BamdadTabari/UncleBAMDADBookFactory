@@ -1,0 +1,40 @@
+*Behavioral Design Pattern in c#
+
+These patterns address different challenges, 
+but they all revolve around organizing the behavior and interaction of objects. 
+The choice of which pattern to use depends on the specific behavioral complexity 
+you're trying to address.
+Behavioral Design Patterns in C# are design patterns that focus on 
+communication between objects, 
+how they interact and fulfill their roles in a system. 
+These patterns ensure that objects cooperate effectively, 
+responsibilities are clearly defined, and interactions are well-organized. 
+Some common behavioral design patterns in C# include:
+
+1. Command Design Pattern: 
+Encapsulates a request as an object, 
+allowing for parameterization of clients with different requests.
+
+2. Memento Design Pattern: 
+Allows to restore an object to its previous state, useful for 'undo' functionalities.
+
+3. Mediator Design Pattern: 
+Reduces direct communication between classes by centralizing external communications, 
+preventing a system with many communicating components from becoming chaotic.
+
+4. State Design Pattern: 
+An object can alter its behavior when its internal state changes.
+
+5. Template Method Design Pattern: 
+Defines the program skeleton of an algorithm in an algorithm class 
+but delays some steps to subclasses, allowing subclasses to redefine certain steps 
+of an algorithm without changing the algorithm's structure.
+
+6. Strategy Design Pattern: 
+Define a family of algorithms, 
+encapsulate each one, and make them interchangeable.
+
+7. Visitor Design Pattern: 
+This lets you add further operations to objects without modifying them. 
+A visitor object is passed to each element in a structure, 
+and elements can accept or refuse the "visit".
