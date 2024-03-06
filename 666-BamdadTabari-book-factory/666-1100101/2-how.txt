@@ -11,5 +11,6 @@ by
 step
 
 1- create a singleton instance:
-
 these all gonna be private
+
+- learn how to build as fast as possible
