@@ -56,3 +56,26 @@ class Program {
 This pattern is useful when creating families of related objects where the client code needs to work with different object types without knowing their concrete classes. It provides flexibility in switching between different object families by changing the concrete factory instance.
 
 
+-----------------------------------------------------------------------------
+what are concrete classes in C#?
+
+In C#, a concrete class is a class that can be instantiated to create objects. 
+It provides full implementations for all its methods, 
+including abstract ones inherited from superclasses or interfaces. 
+A concrete class is not intended to be a base class and aims to 
+minimize dependency on other classes in its implementation or behavior.
+
+To create an instance of a concrete class in C#, 
+you can use the "new" keyword. For example:
+
+```csharp
+MyConcreteClass myObject = new MyConcreteClass();
+```
+
+A concrete class can extend abstract classes or implement interfaces, 
+but it must implement all the methods of the abstract class or interface it inherits. 
+It is not possible to create an abstract class without any abstract methods, 
+as an abstract class without any abstract methods would be considered a concrete class.
+
+Concrete classes in C# are fully implemented classes that implement all the methods. 
+They may also be declared as final classes to prevent inheritance if desired.
