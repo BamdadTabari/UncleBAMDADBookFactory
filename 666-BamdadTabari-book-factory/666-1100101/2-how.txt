@@ -13,4 +13,6 @@ step
 1- create a singleton instance:
 these all gonna be private
 
-- learn how to build as fast as possible
+- learn how to build as fast as possible => done
+
+- my personal data, all about me => working on it
