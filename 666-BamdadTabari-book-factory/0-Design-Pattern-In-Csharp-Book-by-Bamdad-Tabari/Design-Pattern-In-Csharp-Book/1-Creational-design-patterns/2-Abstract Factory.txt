@@ -1,2 +1,1 @@
-
-* Describe The Abstract Factory Design pattern with Details And Code Sample :
+* Describe The Abstract Factory Design pattern in C# with Details And C# Code Sample :
